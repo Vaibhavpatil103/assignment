@@ -1,0 +1,562 @@
+[
+  {
+    "id": "course_1",
+    "name": "Life Skills Masterclass 1: Fundamentals to Advanced",
+    "subject": "Life Skills",
+    "grade": [
+      6,
+      7
+    ],
+    "price": 3585,
+    "teacherName": "Teacher B.",
+    "teacherRating": 4.1,
+    "description": "An engaging and comprehensive course on Life Skills tailored for grades 6-7.",
+    "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_2",
+    "name": "Coding Masterclass 2: Fundamentals to Advanced",
+    "subject": "Coding",
+    "grade": [
+      5,
+      7
+    ],
+    "price": 3645,
+    "teacherName": "Teacher C.",
+    "teacherRating": 4.9,
+    "description": "An engaging and comprehensive course on Coding tailored for grades 5-7.",
+    "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_3",
+    "name": "English Masterclass 3: Fundamentals to Advanced",
+    "subject": "English",
+    "grade": [
+      1,
+      1
+    ],
+    "price": 5569,
+    "teacherName": "Teacher D.",
+    "teacherRating": 4.9,
+    "description": "An engaging and comprehensive course on English tailored for grades 1-1.",
+    "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_4",
+    "name": "Art Masterclass 4: Fundamentals to Advanced",
+    "subject": "Art",
+    "grade": [
+      8,
+      11
+    ],
+    "price": 4700,
+    "teacherName": "Teacher E.",
+    "teacherRating": 5,
+    "description": "An engaging and comprehensive course on Art tailored for grades 8-11.",
+    "imageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_5",
+    "name": "Music Masterclass 5: Fundamentals to Advanced",
+    "subject": "Music",
+    "grade": [
+      2,
+      3
+    ],
+    "price": 4707,
+    "teacherName": "Teacher F.",
+    "teacherRating": 3.6,
+    "description": "An engaging and comprehensive course on Music tailored for grades 2-3.",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_6",
+    "name": "Coding Masterclass 6: Fundamentals to Advanced",
+    "subject": "Coding",
+    "grade": [
+      1,
+      4
+    ],
+    "price": 3535,
+    "teacherName": "Teacher G.",
+    "teacherRating": 3.8,
+    "description": "An engaging and comprehensive course on Coding tailored for grades 1-4.",
+    "imageUrl": "https://images.unsplash.com/photo-1453733190371-0a9ef868bf03?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_7",
+    "name": "Life Skills Masterclass 7: Fundamentals to Advanced",
+    "subject": "Life Skills",
+    "grade": [
+      3,
+      3
+    ],
+    "price": 2819,
+    "teacherName": "Teacher H.",
+    "teacherRating": 4.5,
+    "description": "An engaging and comprehensive course on Life Skills tailored for grades 3-3.",
+    "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_8",
+    "name": "Mathematics Masterclass 8: Fundamentals to Advanced",
+    "subject": "Mathematics",
+    "grade": [
+      2,
+      2
+    ],
+    "price": 4488,
+    "teacherName": "Teacher I.",
+    "teacherRating": 3.9,
+    "description": "An engaging and comprehensive course on Mathematics tailored for grades 2-2.",
+    "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_9",
+    "name": "Life Skills Masterclass 9: Fundamentals to Advanced",
+    "subject": "Life Skills",
+    "grade": [
+      8,
+      9
+    ],
+    "price": 3653,
+    "teacherName": "Teacher J.",
+    "teacherRating": 4.9,
+    "description": "An engaging and comprehensive course on Life Skills tailored for grades 8-9.",
+    "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_10",
+    "name": "English Masterclass 10: Fundamentals to Advanced",
+    "subject": "English",
+    "grade": [
+      2,
+      3
+    ],
+    "price": 3443,
+    "teacherName": "Teacher K.",
+    "teacherRating": 3.7,
+    "description": "An engaging and comprehensive course on English tailored for grades 2-3.",
+    "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_11",
+    "name": "Music Masterclass 11: Fundamentals to Advanced",
+    "subject": "Music",
+    "grade": [
+      8,
+      8
+    ],
+    "price": 3298,
+    "teacherName": "Teacher L.",
+    "teacherRating": 3.9,
+    "description": "An engaging and comprehensive course on Music tailored for grades 8-8.",
+    "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_12",
+    "name": "Science Masterclass 12: Fundamentals to Advanced",
+    "subject": "Science",
+    "grade": [
+      6,
+      9
+    ],
+    "price": 1181,
+    "teacherName": "Teacher M.",
+    "teacherRating": 5,
+    "description": "An engaging and comprehensive course on Science tailored for grades 6-9.",
+    "imageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_13",
+    "name": "English Masterclass 13: Fundamentals to Advanced",
+    "subject": "English",
+    "grade": [
+      1,
+      1
+    ],
+    "price": 5286,
+    "teacherName": "Teacher N.",
+    "teacherRating": 4.7,
+    "description": "An engaging and comprehensive course on English tailored for grades 1-1.",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_14",
+    "name": "Mathematics Masterclass 14: Fundamentals to Advanced",
+    "subject": "Mathematics",
+    "grade": [
+      1,
+      3
+    ],
+    "price": 2350,
+    "teacherName": "Teacher O.",
+    "teacherRating": 4.7,
+    "description": "An engaging and comprehensive course on Mathematics tailored for grades 1-3.",
+    "imageUrl": "https://images.unsplash.com/photo-1453733190371-0a9ef868bf03?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_15",
+    "name": "Music Masterclass 15: Fundamentals to Advanced",
+    "subject": "Music",
+    "grade": [
+      5,
+      7
+    ],
+    "price": 3039,
+    "teacherName": "Teacher P.",
+    "teacherRating": 4.2,
+    "description": "An engaging and comprehensive course on Music tailored for grades 5-7.",
+    "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_16",
+    "name": "Art Masterclass 16: Fundamentals to Advanced",
+    "subject": "Art",
+    "grade": [
+      5,
+      7
+    ],
+    "price": 2533,
+    "teacherName": "Teacher Q.",
+    "teacherRating": 4.7,
+    "description": "An engaging and comprehensive course on Art tailored for grades 5-7.",
+    "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_17",
+    "name": "Mathematics Masterclass 17: Fundamentals to Advanced",
+    "subject": "Mathematics",
+    "grade": [
+      5,
+      5
+    ],
+    "price": 3907,
+    "teacherName": "Teacher R.",
+    "teacherRating": 4.1,
+    "description": "An engaging and comprehensive course on Mathematics tailored for grades 5-5.",
+    "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_18",
+    "name": "Coding Masterclass 18: Fundamentals to Advanced",
+    "subject": "Coding",
+    "grade": [
+      3,
+      4
+    ],
+    "price": 5502,
+    "teacherName": "Teacher S.",
+    "teacherRating": 4,
+    "description": "An engaging and comprehensive course on Coding tailored for grades 3-4.",
+    "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_19",
+    "name": "Art Masterclass 19: Fundamentals to Advanced",
+    "subject": "Art",
+    "grade": [
+      7,
+      8
+    ],
+    "price": 4094,
+    "teacherName": "Teacher T.",
+    "teacherRating": 3.9,
+    "description": "An engaging and comprehensive course on Art tailored for grades 7-8.",
+    "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_20",
+    "name": "Art Masterclass 20: Fundamentals to Advanced",
+    "subject": "Art",
+    "grade": [
+      2,
+      5
+    ],
+    "price": 2795,
+    "teacherName": "Teacher U.",
+    "teacherRating": 3.6,
+    "description": "An engaging and comprehensive course on Art tailored for grades 2-5.",
+    "imageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_21",
+    "name": "Music Masterclass 21: Fundamentals to Advanced",
+    "subject": "Music",
+    "grade": [
+      6,
+      8
+    ],
+    "price": 5034,
+    "teacherName": "Teacher V.",
+    "teacherRating": 3.9,
+    "description": "An engaging and comprehensive course on Music tailored for grades 6-8.",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_22",
+    "name": "Music Masterclass 22: Fundamentals to Advanced",
+    "subject": "Music",
+    "grade": [
+      4,
+      5
+    ],
+    "price": 2067,
+    "teacherName": "Teacher W.",
+    "teacherRating": 3.9,
+    "description": "An engaging and comprehensive course on Music tailored for grades 4-5.",
+    "imageUrl": "https://images.unsplash.com/photo-1453733190371-0a9ef868bf03?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_23",
+    "name": "English Masterclass 23: Fundamentals to Advanced",
+    "subject": "English",
+    "grade": [
+      4,
+      6
+    ],
+    "price": 5118,
+    "teacherName": "Teacher X.",
+    "teacherRating": 4.5,
+    "description": "An engaging and comprehensive course on English tailored for grades 4-6.",
+    "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_24",
+    "name": "Music Masterclass 24: Fundamentals to Advanced",
+    "subject": "Music",
+    "grade": [
+      3,
+      5
+    ],
+    "price": 1800,
+    "teacherName": "Teacher Y.",
+    "teacherRating": 4.2,
+    "description": "An engaging and comprehensive course on Music tailored for grades 3-5.",
+    "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_25",
+    "name": "Art Masterclass 25: Fundamentals to Advanced",
+    "subject": "Art",
+    "grade": [
+      2,
+      2
+    ],
+    "price": 1216,
+    "teacherName": "Teacher Z.",
+    "teacherRating": 4.9,
+    "description": "An engaging and comprehensive course on Art tailored for grades 2-2.",
+    "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_26",
+    "name": "English Masterclass 26: Fundamentals to Advanced",
+    "subject": "English",
+    "grade": [
+      7,
+      9
+    ],
+    "price": 2438,
+    "teacherName": "Teacher A.",
+    "teacherRating": 4.4,
+    "description": "An engaging and comprehensive course on English tailored for grades 7-9.",
+    "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_27",
+    "name": "Science Masterclass 27: Fundamentals to Advanced",
+    "subject": "Science",
+    "grade": [
+      1,
+      2
+    ],
+    "price": 4466,
+    "teacherName": "Teacher B.",
+    "teacherRating": 4.7,
+    "description": "An engaging and comprehensive course on Science tailored for grades 1-2.",
+    "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_28",
+    "name": "Science Masterclass 28: Fundamentals to Advanced",
+    "subject": "Science",
+    "grade": [
+      7,
+      9
+    ],
+    "price": 5426,
+    "teacherName": "Teacher C.",
+    "teacherRating": 4.4,
+    "description": "An engaging and comprehensive course on Science tailored for grades 7-9.",
+    "imageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_29",
+    "name": "Science Masterclass 29: Fundamentals to Advanced",
+    "subject": "Science",
+    "grade": [
+      5,
+      8
+    ],
+    "price": 5267,
+    "teacherName": "Teacher D.",
+    "teacherRating": 4.6,
+    "description": "An engaging and comprehensive course on Science tailored for grades 5-8.",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_30",
+    "name": "Art Masterclass 30: Fundamentals to Advanced",
+    "subject": "Art",
+    "grade": [
+      4,
+      7
+    ],
+    "price": 4824,
+    "teacherName": "Teacher E.",
+    "teacherRating": 3.7,
+    "description": "An engaging and comprehensive course on Art tailored for grades 4-7.",
+    "imageUrl": "https://images.unsplash.com/photo-1453733190371-0a9ef868bf03?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_31",
+    "name": "Life Skills Masterclass 31: Fundamentals to Advanced",
+    "subject": "Life Skills",
+    "grade": [
+      8,
+      11
+    ],
+    "price": 3070,
+    "teacherName": "Teacher F.",
+    "teacherRating": 4.7,
+    "description": "An engaging and comprehensive course on Life Skills tailored for grades 8-11.",
+    "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_32",
+    "name": "Music Masterclass 32: Fundamentals to Advanced",
+    "subject": "Music",
+    "grade": [
+      1,
+      4
+    ],
+    "price": 2124,
+    "teacherName": "Teacher G.",
+    "teacherRating": 4.9,
+    "description": "An engaging and comprehensive course on Music tailored for grades 1-4.",
+    "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_33",
+    "name": "Science Masterclass 33: Fundamentals to Advanced",
+    "subject": "Science",
+    "grade": [
+      8,
+      11
+    ],
+    "price": 1290,
+    "teacherName": "Teacher H.",
+    "teacherRating": 4,
+    "description": "An engaging and comprehensive course on Science tailored for grades 8-11.",
+    "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_34",
+    "name": "Science Masterclass 34: Fundamentals to Advanced",
+    "subject": "Science",
+    "grade": [
+      5,
+      6
+    ],
+    "price": 4534,
+    "teacherName": "Teacher I.",
+    "teacherRating": 4.7,
+    "description": "An engaging and comprehensive course on Science tailored for grades 5-6.",
+    "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_35",
+    "name": "English Masterclass 35: Fundamentals to Advanced",
+    "subject": "English",
+    "grade": [
+      2,
+      3
+    ],
+    "price": 5312,
+    "teacherName": "Teacher J.",
+    "teacherRating": 4,
+    "description": "An engaging and comprehensive course on English tailored for grades 2-3.",
+    "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_36",
+    "name": "Art Masterclass 36: Fundamentals to Advanced",
+    "subject": "Art",
+    "grade": [
+      4,
+      6
+    ],
+    "price": 2249,
+    "teacherName": "Teacher K.",
+    "teacherRating": 4.8,
+    "description": "An engaging and comprehensive course on Art tailored for grades 4-6.",
+    "imageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_37",
+    "name": "English Masterclass 37: Fundamentals to Advanced",
+    "subject": "English",
+    "grade": [
+      4,
+      4
+    ],
+    "price": 3383,
+    "teacherName": "Teacher L.",
+    "teacherRating": 4.6,
+    "description": "An engaging and comprehensive course on English tailored for grades 4-4.",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_38",
+    "name": "Coding Masterclass 38: Fundamentals to Advanced",
+    "subject": "Coding",
+    "grade": [
+      3,
+      5
+    ],
+    "price": 5056,
+    "teacherName": "Teacher M.",
+    "teacherRating": 4.3,
+    "description": "An engaging and comprehensive course on Coding tailored for grades 3-5.",
+    "imageUrl": "https://images.unsplash.com/photo-1453733190371-0a9ef868bf03?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_39",
+    "name": "Coding Masterclass 39: Fundamentals to Advanced",
+    "subject": "Coding",
+    "grade": [
+      2,
+      3
+    ],
+    "price": 4012,
+    "teacherName": "Teacher N.",
+    "teacherRating": 4.5,
+    "description": "An engaging and comprehensive course on Coding tailored for grades 2-3.",
+    "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "course_40",
+    "name": "English Masterclass 40: Fundamentals to Advanced",
+    "subject": "English",
+    "grade": [
+      4,
+      6
+    ],
+    "price": 2490,
+    "teacherName": "Teacher O.",
+    "teacherRating": 4.1,
+    "description": "An engaging and comprehensive course on English tailored for grades 4-6.",
+    "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=600&auto=format&fit=crop"
+  }
+]
