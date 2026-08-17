@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Star, MapPin } from "lucide-react";
+import { Star } from "lucide-react";
 
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";

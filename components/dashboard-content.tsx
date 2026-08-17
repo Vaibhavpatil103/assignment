@@ -6,7 +6,6 @@ import { useDebouncedCallback } from "use-debounce";
 import {
   Search,
   BookOpen,
-  Heart,
   X,
   ChevronDown,
   SearchX,

@@ -31,7 +31,8 @@ function writeUsers(users: User[]): void {
 }
 
 function toSafeUser(user: User): SafeUser {
-  const { passwordHash: _, ...safe } = user;
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  const { passwordHash: _passwordHash, ...safe } = user;
   return safe;
 }
 
